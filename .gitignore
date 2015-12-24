@@ -1,0 +1,9 @@
+.bundle
+.DS_Store
+.env
+.env.dev
+.idea
+*.log
+*.rdb
+*.swp
+/tmp
